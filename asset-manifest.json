@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/@brm013/fluentui-react-forms/static/css/main.b693b373.chunk.css",
-    "main.js": "/@brm013/fluentui-react-forms/static/js/main.d3835e99.chunk.js",
-    "main.js.map": "/@brm013/fluentui-react-forms/static/js/main.d3835e99.chunk.js.map",
-    "runtime-main.js": "/@brm013/fluentui-react-forms/static/js/runtime-main.d6a11cf4.js",
-    "runtime-main.js.map": "/@brm013/fluentui-react-forms/static/js/runtime-main.d6a11cf4.js.map",
-    "static/js/2.0b64a40f.chunk.js": "/@brm013/fluentui-react-forms/static/js/2.0b64a40f.chunk.js",
-    "static/js/2.0b64a40f.chunk.js.map": "/@brm013/fluentui-react-forms/static/js/2.0b64a40f.chunk.js.map",
-    "index.html": "/@brm013/fluentui-react-forms/index.html",
-    "precache-manifest.8328f5c11149f2d43a3c5541b4b97562.js": "/@brm013/fluentui-react-forms/precache-manifest.8328f5c11149f2d43a3c5541b4b97562.js",
-    "service-worker.js": "/@brm013/fluentui-react-forms/service-worker.js",
-    "static/css/main.b693b373.chunk.css.map": "/@brm013/fluentui-react-forms/static/css/main.b693b373.chunk.css.map",
-    "static/js/2.0b64a40f.chunk.js.LICENSE.txt": "/@brm013/fluentui-react-forms/static/js/2.0b64a40f.chunk.js.LICENSE.txt"
+    "main.css": "/fluentui-react-forms/static/css/main.b693b373.chunk.css",
+    "main.js": "/fluentui-react-forms/static/js/main.d3835e99.chunk.js",
+    "main.js.map": "/fluentui-react-forms/static/js/main.d3835e99.chunk.js.map",
+    "runtime-main.js": "/fluentui-react-forms/static/js/runtime-main.908e32c6.js",
+    "runtime-main.js.map": "/fluentui-react-forms/static/js/runtime-main.908e32c6.js.map",
+    "static/js/2.0b64a40f.chunk.js": "/fluentui-react-forms/static/js/2.0b64a40f.chunk.js",
+    "static/js/2.0b64a40f.chunk.js.map": "/fluentui-react-forms/static/js/2.0b64a40f.chunk.js.map",
+    "index.html": "/fluentui-react-forms/index.html",
+    "precache-manifest.6ba066ad9e7d99929e60bce001539104.js": "/fluentui-react-forms/precache-manifest.6ba066ad9e7d99929e60bce001539104.js",
+    "service-worker.js": "/fluentui-react-forms/service-worker.js",
+    "static/css/main.b693b373.chunk.css.map": "/fluentui-react-forms/static/css/main.b693b373.chunk.css.map",
+    "static/js/2.0b64a40f.chunk.js.LICENSE.txt": "/fluentui-react-forms/static/js/2.0b64a40f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.d6a11cf4.js",
+    "static/js/runtime-main.908e32c6.js",
     "static/js/2.0b64a40f.chunk.js",
     "static/css/main.b693b373.chunk.css",
     "static/js/main.d3835e99.chunk.js"
